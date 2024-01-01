@@ -3,7 +3,7 @@
 ## 💻Project
 - Sobre
   <p>
-    Trata de um projeto que teve como objetivo minha primeira interação com o Typescript, tal projeto será ainda muito desenvolvido a partir que vá conseguindo conhecimento no mundo Typescript. NO projeto em si, além de ter feito a troca de tema, também aprendi sobre o Local Storage da máquina que está acessando, dessa maneira, ao dar reload na página, o tema que estará ao terminar do realod será aquele que estava antes do realod, ficou confuso? espero que não
+    Trata de um projeto que teve como objetivo minha primeira interação com o Typescript, tal projeto será ainda muito desenvolvido a partir que vá conseguindo conhecimento no mundo Typescript. NO projeto em si, além de ter feito a troca de tema, também aprendi sobre o Local Storage da máquina que está acessando, dessa maneira, ao dar reload na página, o tema que estará ao terminar do realod será aquele que estava antes do realod, ficou confuso? espero que não.
   </p>
 - Tecnologias utilizadas
   <div>
