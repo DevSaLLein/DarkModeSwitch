@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6" />
     <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=#adff2f" />
     <img src="https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/Vite-0D1117.svg?style=for-the-badge&logo=vite"/>
   </div>
 - Como rodar
   <p> Basta entrar no site para testar a funcionalidade </p>
